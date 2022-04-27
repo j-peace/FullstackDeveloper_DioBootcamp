@@ -1,0 +1,77 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;
+\f3\fnil\fcharset0 .AppleSystemUIFontMonospaced-Bold;\f4\froman\fcharset0 Times-Bold;\f5\fswiss\fcharset0 Helvetica-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red27\green31\blue35;\red160\green169\blue180;
+\red26\green28\blue31;\red220\green224\blue226;\red69\green77\blue87;\red160\green169\blue180;\red37\green37\blue37;
+\red255\green255\blue255;\red26\green30\blue34;\red241\green241\blue241;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c14118\c16078\c18431;\cssrgb\c68627\c72157\c75686\c20000;
+\cssrgb\c13725\c14902\c16078;\cssrgb\c89020\c90196\c90980;\cssrgb\c34118\c37647\c41569;\cssrgb\c68627\c72157\c75686\c20000;\cssrgb\c19216\c19216\c19216;
+\cssrgb\c100000\c100000\c100000;\cssrgb\c13725\c15686\c17647;\cssrgb\c95686\c95686\c95686;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww25100\viewh12620\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\
+https://github.com/rafaballerini/GitTutorial\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf2 \CocoaLigature0 % 
+\f0\fs24 \cf0 \CocoaLigature1 git init\
+
+\f1\fs22 \cf2 \CocoaLigature0 % git add /NOME ARQUIVO  \
+% git commit -m \'93/NOME DO COMMIT"\
+% 
+\f2\fs27\fsmilli13600 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\CocoaLigature1 git push origin main
+\f1\fs22 \cf2 \cb1 \kerning1\expnd0\expndtw0 \CocoaLigature0 \
+\
+* Do not consider the password\
+\
+\
+\
+\
+\
+Git pull = \
+\
+\
+The first time = 
+\f2\fs26 \cf5 \cb6 \expnd0\expndtw0\kerning0
+\CocoaLigature1 git push origin master\
+\
+\
+\
+
+\f3\b Desativar todos os certificados de seguran\'e7a
+\f2\b0 \
+\pard\pardeftab720\partightenfactor0
+
+\fs23\fsmilli11900 \cf7 \cb8 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec7 git config --global http.sslverify "false"
+\fs26 \cf5 \cb6 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf5 \
+\
+\pard\pardeftab720\sl572\sa340\partightenfactor0
+
+\f4\b\fs44 \cf9 \cb10 Delete Files using git rm\
+\pard\pardeftab720\sl504\sa340\partightenfactor0
+
+\f5\fs28 \cf9 The easiest way to delete a file in your Git repository is to execute the \'93git rm\'94 command and to specify the file to be deleted.
+\f0\b0 \
+\pard\pardeftab720\sl392\partightenfactor0
+
+\f1 \cf11 \cb12 $ git rm -r <file>\
+\
+\pard\tx22384\pardeftab720\sl392\partightenfactor0
+\cf11 $ git commit -m "Deleted the file from the git repository"\
+\pard\pardeftab720\sl392\partightenfactor0
+\cf11 \
+$ git push\
+\
+\
+Creat a folder: mkdir\
+Creat a file: touch nomePasta/nomeArquivo.extens\'e3oDoArquivo\
+}
